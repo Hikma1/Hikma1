@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I’m Hikma Ibrahim<br> Computer Science Student <br> 🤖 Embedded Systems <br>📖 Currently learning DSA</p>
+<p align="left">I’m Hikma Ibrahim | VeilStack<br> Computer Science Student <br> 🤖 Embedded Systems <br>📖 Currently learning DSA</p>
 
 ###
 
