@@ -1,4 +1,4 @@
-<img width="493" height="2164" alt="image" src="https://github.com/user-attachments/assets/9a678c2a-209c-4ee8-bf21-e47dae046a80" /># Hi, I'm <YOUR NAME>! 👋
+ Hi, I'm <YOUR NAME>! 👋
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
