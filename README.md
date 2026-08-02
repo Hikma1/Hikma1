@@ -2,9 +2,7 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=hikma1&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=hikma1&theme=github-dark" alt="Hikma | VeilStack profile hero" /></picture>
 </p>
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=hikma1&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=hikma1&theme=github-dark" alt="About Hikma | VeilStack" /></picture>
-</p>
+
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=hikma1&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=hikma1&theme=github-dark" alt="Language stack" /></picture>
