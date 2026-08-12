@@ -17,7 +17,7 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=hikma1&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=hikma1&theme=github-dark" alt="hikma1 featured projects" /></picture>
 </p>
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=hikma1&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=hikma1&theme=github-dark" alt="hikma1 social links" /></picture>
