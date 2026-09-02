@@ -5,15 +5,13 @@
   </picture>
 </p>
 
-<h2 align="center">Hey, I'm Hikma 👋</h2>
-
 <p align="center">
   <strong>Computer Science Student • Software Developer • Lifelong Learner</strong>
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## <strong> Tech Stack</strong>
 
 ### Languages
 
