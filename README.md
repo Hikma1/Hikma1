@@ -8,40 +8,35 @@
 <h2 align="center">Hey, I'm Hikma 👋</h2>
 
 <p align="center">
-  Computer Science Student • Software Developer • Lifelong Learner
+  <strong>Computer Science Student • Software Developer • Lifelong Learner</strong>
 </p>
-
-<p align="center">
-  I enjoy turning ideas into useful software and continuously exploring
-  <strong>web development,IOT, and emerging technologies.</strong>
-</p>
-
----
-
-## 👩‍💻 About Me
-
-* 🎓 Computer Science student at Addis Ababa University
-* 💻 Interested in **software engineering and backend development**
-* 🌱 Currently strengthening my skills in **JavaScript, Node.js, SQL, and data structures**
-* 🤖 Exploring **AI/ML** and how intelligent systems can solve real-world problems
-* ⛓️ Interested in **blockchain technology** and its practical applications
-* 🛠️ I learn best by building, breaking, debugging, and building again
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=hikma1&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=hikma1&theme=github-dark" alt="Hikma's language and technology stack" />
-  </picture>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css,sql" alt="JavaScript, Python, Java, C++, HTML, CSS and SQL" />
 </p>
 
-### Currently Working With
+### Frameworks & Runtime
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,java,cpp,sql,git,github,vscode" alt="JavaScript, Node.js, Python, Java, C++, SQL, Git, GitHub and VS Code" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,supabase" alt="Git, GitHub, VS Code, Postman and Supabase" />
+</p>
+
+### Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </p>
 
 ---
@@ -57,9 +52,20 @@
 
 ### 🔐 Password Analyzer
 
-A web-based tool for analyzing password strength and providing useful feedback to help users create stronger passwords.
+A web-based tool that analyzes password strength and provides feedback to help users create stronger passwords.
 
 **Live Demo:** https://hikma1.github.io/Password-Analyzer/
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Backend Development   ███████████████░░░  Building stronger foundations
+UI/UX Design           ████████████░░░░░░  Learning & experimenting
+Data Structures        ██████████████░░░░  Practicing problem solving
+Blockchain             ████░░░░░░░░░░░░░░  Beginner & exploring
+```
 
 ---
 
@@ -72,30 +78,20 @@ A web-based tool for analyzing password strength and providing useful feedback t
 
 ---
 
-## 🌱 Currently Learning
-
-```text
-Backend Development   ███████████████░░░  Building stronger foundations
-AI / Machine Learning ████████████░░░░░░  Exploring & experimenting
-Data Structures       ██████████████░░░░  Practicing problem solving
-Blockchain            ██████████░░░░░░░░  Exploring real-world applications
-```
-
----
-
-## 📈 My Approach
-
-> **Learn → Build → Break → Debug → Improve → Repeat.**
-
-I believe the best way to learn software development is not just by studying concepts, but by building things and learning from what goes wrong.
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/hikma1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/hikma-ibrahim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/yourusername">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
 
@@ -109,5 +105,5 @@ I believe the best way to learn software development is not just by studying con
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
+  <i>Thanks for stopping by! ⭐</i>
 </p>
