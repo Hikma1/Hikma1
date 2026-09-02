@@ -10,10 +10,6 @@
  📊 GitHub Stats
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=hikma1&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=hikma1&theme=github-dark" alt="GitHub Stats" /></picture>
-</p>
-
-<p align="center">
   <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=hikma1&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=hikma1&theme=github-dark" alt="hikma1 featured projects" /></picture>
 </p>
 
