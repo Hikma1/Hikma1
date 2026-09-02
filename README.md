@@ -48,18 +48,14 @@
   </picture>
 </p>
 
-### 🔐 Password Analyzer
 
-A web-based tool that analyzes password strength and provides feedback to help users create stronger passwords.
-
-**Live Demo:** https://hikma1.github.io/Password-Analyzer/
 
 ---
 
 ## 🌱 Currently Learning
 
 ```text
-Backend Development   ███████████████░░░  Building stronger foundations
+Backend Development    ███████████████░░░  Building stronger foundations
 UI/UX Design           ████████████░░░░░░  Learning & experimenting
 Data Structures        ██████████████░░░░  Practicing problem solving
 Blockchain             ████░░░░░░░░░░░░░░  Beginner & exploring
@@ -70,7 +66,7 @@ Blockchain             ████░░░░░░░░░░░░░░  B
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hikma1&show_icons=true&theme=github_dark&hide_border=true" alt="Hikma's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hikma1&show_icons=true&theme=github_dark&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hikma1&theme=github-dark&hide_border=true" alt="Hikma's GitHub contribution streak" />
 </p>
 
