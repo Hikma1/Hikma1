@@ -183,7 +183,7 @@ Beginner level — exploring the fundamentals.
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="[https://www.linkedin.com](https://www.linkedin.com/in/hikma-ibrahim-ahmed-5777ab32b/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
@@ -195,9 +195,7 @@ Beginner level — exploring the fundamentals.
 <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
+
 
 </div>
 
