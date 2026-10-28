@@ -12,7 +12,7 @@
 
 <br>
 
-AI & ML Intern @ iCog Labs
+
 Exploring artificial intelligence, machine learning, and innovative software solutions.
 </div>
 
