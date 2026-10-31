@@ -13,7 +13,7 @@
 <br>
 
 
-Exploring artificial intelligence, machine learning, and innovative software solutions.
+Database Intern at Brolftech Exploring artificial intelligence, machine learning, and innovative software solutions.
 </div>
 
 ---
